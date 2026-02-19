@@ -1,2 +1,3 @@
-Realtek High Definition Audio;6.0.9225.1;https://tvojweb.sk/drivers/audio.exe
-NVIDIA GeForce RTX 3060;31.0.15.2849;https://tvojweb.sk/drivers/nvidia.exe
+Realtek High Definition Audio;6.0.9225.1;https://github.com/kpeter18/Ovlada-e-PRO/edit/main/DriversDB.txt/drivers/audio.exe
+NVIDIA GeForce RTX 3060;31.0.15.2849;https://github.com/kpeter18/Ovlada-e-PRO/edit/main/DriversDB.txt/drivers/nvidia.exe
+
