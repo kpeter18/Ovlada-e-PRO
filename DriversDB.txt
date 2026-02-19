@@ -1,3 +1,2 @@
-Bluetooth Device (RFCOMM Protocol TDI);10.0.26100.9999;https://tvojweb.sk/ovladace/bt.zip;
-Realtek Audio;6.0.9621.1;https://tvojweb.sk/files/audio_setup.exe;
-Intel Graphics;31.0.101.5333;https://tvojweb.sk/files/gfx_setup.exe;
+Realtek High Definition Audio;6.0.9225.1;https://tvojweb.sk/drivers/audio.exe
+NVIDIA GeForce RTX 3060;31.0.15.2849;https://tvojweb.sk/drivers/nvidia.exe
